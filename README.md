@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TEST REPO TO CHECK AUTHENTICATION OF REACT APP USING COGNITO
+
+Open [https://master.dnqjd3jdwhxli.amplifyapp.com/](https://master.dnqjd3jdwhxli.amplifyapp.com/) to view website.
+
 ## Available Scripts
 
 In the project directory, you can run:
