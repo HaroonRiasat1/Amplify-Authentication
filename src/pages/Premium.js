@@ -45,6 +45,7 @@ const Premium = () => {
           type="description"
           value={description}
           onChange={(e)=>setdescription(e.target.value)}
+          
           />
           </label>
           <label><br/>Enter your status 
@@ -61,7 +62,7 @@ const Premium = () => {
                 <button onClick={signOut}>signOut</button>
 
 
-                {check && <table className="content">
+                {check && <table >
                     <tr>
                     <th>Title</th>
                     <th>Description</th>
